@@ -26,7 +26,7 @@
     </pluginManagement>
       <plugin>
         <artifactId>maven-war-plugin</artifactId>
-        <version>3.1.2</version>
+        <version>2.1.1</version>
         <configuration>
           <warSourceDirectory>WebContent</warSourceDirectory>
           <failOnMissingWebXml>false</failOnMissingWebXml>
